@@ -14,7 +14,7 @@ public class linkedList{
 		}
 	}
 	
-	 // Display the list
+	 //Display the list
 
 	
 	public void display(){
